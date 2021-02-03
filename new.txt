@@ -1,8 +1,13 @@
+Right click the directory and select gitbash here to open gitbash directly
+ (or)
 change the directory =  cd D:/
 Creating project folder =  mkdir project 
 select the file to be taken by git =    git init
-creating a text file inside the directory =   touch new.txt
+
+creating a readme text file inside the directory =   touch new.txt
 to list the files in the directory =  ls
 to get the status of commits in the git directory =    git status
+to add the repositery =   git add . 
 to commit the file =    git commit -m "sample commit instructions"
-
+to set a link for repositary =  git remote add origin https://github.com/simplykarthic/reponame
+to push into repo =  git push orgin master
