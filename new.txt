@@ -1,0 +1,8 @@
+change the directory =  cd D:/
+Creating project folder =  mkdir project 
+select the file to be taken by git =    git init
+creating a text file inside the directory =   touch new.txt
+to list the files in the directory =  ls
+to get the status of commits in the git directory =    git status
+to commit the file =    git commit -m "sample commit instructions"
+
