@@ -10,4 +10,4 @@ to get the status of commits in the git directory =    git status
 to add the repositery =   git add . 
 to commit the file =    git commit -m "sample commit instructions"
 to set a link for repositary =  git remote add origin https://github.com/simplykarthic/reponame
-to push into repo =  git push orgin master
+to push into repo =  git push orgin master.
