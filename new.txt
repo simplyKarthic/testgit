@@ -1,3 +1,5 @@
+#addinga file in git repo
+
 Right click the directory and select gitbash here to open gitbash directly
  (or)
 change the directory =  cd D:/
